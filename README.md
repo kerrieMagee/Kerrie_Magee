@@ -5,7 +5,7 @@
 - 📫 How to reach me ... kerriemagee4@gmail.com
 
 
-* Sorts (Python)
+* Sorts (Python)  https://github.com/kerrieMagee/sorts
 * Graphs (Python)
 * Dynamic Programming (Python)
 * Object Orientated SOLID principles (Java)
