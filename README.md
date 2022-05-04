@@ -10,7 +10,7 @@
 * Graphs (Python)
 * [Dynamic Programming (Python)](https://github.com/kerrieMagee/DynamicProgramming_Python)
 * Object Orientated SOLID principles (Java)
-* [Basic yet useful (Python)](https://github.com/kerrieMagee/Basic)
+* [Basic yet useful (Python)](https://github.com/kerrieMagee/Basic-Python-)
 
 
 
