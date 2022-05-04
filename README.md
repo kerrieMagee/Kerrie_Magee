@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on any projects that support my learning.
 - 📫 How to reach me ... kerriemagee4@gmail.com
 
-
-* Sorts (Python)  https://github.com/kerrieMagee/sorts
+ ## My Algorithm implementations and Personal Projects 
+ 
+* [Sorts (Python)](https://github.com/kerrieMagee/sorts)
 * Graphs (Python)
 * Dynamic Programming (Python)
 * Object Orientated SOLID principles (Java)
