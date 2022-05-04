@@ -7,7 +7,7 @@
  ### Algorithm implementations and personal projects 
  
 * [Sorts (Python)](https://github.com/kerrieMagee/sorts)
-* Graphs (Python)
+* [Graphs (Python)](https://github.com/kerrieMagee/Graphs_Python)
 * [Dynamic Programming (Python)](https://github.com/kerrieMagee/DynamicProgramming_Python)
 * Object Orientated SOLID principles (Java)
 * [Basic yet useful (Python)](https://github.com/kerrieMagee/Basic-Python-)
