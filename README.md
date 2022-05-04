@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that support my learning.
 - 📫 How to reach me ... kerriemagee4@gmail.com
 
- ### Algorithm implementations and Personal Projects 
+ ### Algorithm implementations and personal projects 
  
 * [Sorts (Python)](https://github.com/kerrieMagee/sorts)
 * Graphs (Python)
